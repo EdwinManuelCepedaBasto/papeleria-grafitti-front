@@ -1,7 +1,8 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="home"><br><br><br>
+    <img alt="Vue logo" src="../../img/Logo_Papeleria_Graffitti_2-removebg-preview.png">
+    <HelloWorld msg="Bienvenido a la Papeleria Grafitti"/>
+    
   </div>
 </template>
 
